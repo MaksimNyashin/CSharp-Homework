@@ -1,0 +1,6 @@
+Main
+Workers
+..\Test\SupportingClasses\_Reader
+..\Test\SupportingClasses\_Tester
+..\Test\SupportingClasses\_Writer
+-r

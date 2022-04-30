@@ -1,0 +1,5 @@
+*.exe
+*.docx
+*.pdf
+*/Main0.cs
+/tmp/
